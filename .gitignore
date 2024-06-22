@@ -1,6 +1,7 @@
 build
 icon.png
 PySilon.key
+configuration.json
 source_assembled.py
 source_prepared.py
 source_prepared.spec

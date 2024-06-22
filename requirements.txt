@@ -5,3 +5,5 @@ pillow
 getmac
 imageio
 imageio.ffmpeg
+requests
+pyperclip
